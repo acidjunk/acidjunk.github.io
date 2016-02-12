@@ -3,7 +3,7 @@ id: 293
 title: Block edit / select mode in Eclipse
 date: 2011-08-19T13:53:01+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=293
 permalink: /2011/08/block-edit-select-mode-in-eclipse/
 categories:

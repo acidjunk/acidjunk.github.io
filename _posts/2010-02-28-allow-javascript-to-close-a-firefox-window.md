@@ -3,7 +3,7 @@ id: 26
 title: Allow javascript to close a firefox window
 date: 2010-02-28T21:38:09+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=26
 permalink: /2010/02/allow-javascript-to-close-a-firefox-window/
 categories:

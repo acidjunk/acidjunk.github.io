@@ -3,7 +3,7 @@ id: 582
 title: Basic authentication with apache modwsgi and web2py
 date: 2012-08-06T00:30:30+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=582
 permalink: /2012/08/basic-authentication-with-apache-modwsgi-and-web2py/
 categories:

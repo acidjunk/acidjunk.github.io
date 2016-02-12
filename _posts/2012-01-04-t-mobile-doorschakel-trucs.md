@@ -3,7 +3,7 @@ id: 440
 title: T-mobile doorschakel trucs
 date: 2012-01-04T12:07:51+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=440
 permalink: /2012/01/t-mobile-doorschakel-trucs/
 categories:

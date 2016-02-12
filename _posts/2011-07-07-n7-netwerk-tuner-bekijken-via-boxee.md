@@ -3,7 +3,7 @@ id: 230
 title: N7 netwerk tuner bekijken via Boxee
 date: 2011-07-07T17:31:38+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=230
 permalink: /2011/07/n7-netwerk-tuner-bekijken-via-boxee/
 categories:

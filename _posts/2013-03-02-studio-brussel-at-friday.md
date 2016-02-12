@@ -3,7 +3,7 @@ id: 779
 title: Recording Studio Brussel at Friday from crontab with python and mplayer
 date: 2013-03-02T03:44:00+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=779
 permalink: /2013/03/studio-brussel-at-friday/
 categories:

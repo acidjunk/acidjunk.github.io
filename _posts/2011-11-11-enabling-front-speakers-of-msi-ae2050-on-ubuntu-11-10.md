@@ -3,7 +3,7 @@ id: 405
 title: Enabling front speakers of MSI AE2050 on Ubuntu 11.10
 date: 2011-11-11T20:11:09+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=405
 permalink: /2011/11/enabling-front-speakers-of-msi-ae2050-on-ubuntu-11-10/
 categories:

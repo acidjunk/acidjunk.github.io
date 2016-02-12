@@ -3,7 +3,7 @@ id: 333
 title: Spotify voor linux !
 date: 2011-11-01T23:48:41+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=333
 permalink: /2011/11/spotify-voor-linux/
 categories:

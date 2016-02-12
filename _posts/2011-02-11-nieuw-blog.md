@@ -3,7 +3,7 @@ id: 78
 title: Nieuw blog
 date: 2011-02-11T23:13:53+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=78
 permalink: /2011/02/nieuw-blog/
 categories:

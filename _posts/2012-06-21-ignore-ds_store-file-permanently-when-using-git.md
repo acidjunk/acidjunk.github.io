@@ -3,7 +3,7 @@ id: 584
 title: Ignore .DS_Store file permanently when using Git
 date: 2012-06-21T22:45:27+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=584
 permalink: /2012/06/ignore-ds_store-file-permanently-when-using-git/
 categories:

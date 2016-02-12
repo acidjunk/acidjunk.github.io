@@ -3,7 +3,7 @@ id: 767
 title: 'Crowdfunding Kivy on the Raspberry Pi Kivy project : almost there'
 date: 2013-03-01T00:15:50+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=767
 permalink: /2013/03/crowd-fund-the-raspberry-pi-kivy-project/
 categories:

@@ -3,7 +3,7 @@ id: 689
 title: 'Some fruity apps &#038; solutionz for your raspberry pi board'
 date: 2013-01-18T21:04:22+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=689
 permalink: /2013/01/some-fruity-apps-solutionz-for-your-raspberry-pi-board/
 categories:

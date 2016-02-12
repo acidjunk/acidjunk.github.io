@@ -3,7 +3,7 @@ id: 100
 title: Switching UIViews on Orientation change with an animation
 date: 2011-02-19T17:48:20+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=100
 permalink: /2011/02/switching-views-on-orientation-change/
 categories:

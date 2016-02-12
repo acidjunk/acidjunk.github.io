@@ -3,7 +3,7 @@ id: 410
 title: Lego Mindstorm NXT2.0 on OSX 10.6
 date: 2011-12-10T21:20:17+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=410
 permalink: /2011/12/lego-mindstorm-nxt2-0-on-osx-10-6/
 categories:

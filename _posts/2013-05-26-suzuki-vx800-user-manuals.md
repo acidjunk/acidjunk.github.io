@@ -3,7 +3,7 @@ id: 832
 title: Suzuki VX800 User manuals
 date: 2013-05-26T14:23:56+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=832
 permalink: /2013/05/suzuki-vx800-user-manuals/
 categories:

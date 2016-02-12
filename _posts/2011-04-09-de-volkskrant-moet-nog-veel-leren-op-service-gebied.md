@@ -3,7 +3,7 @@ id: 182
 title: De volkskrant, moet nog veel leren op service gebied
 date: 2011-04-09T13:02:44+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=182
 permalink: /2011/04/de-volkskrant-moet-nog-veel-leren-op-service-gebied/
 categories:

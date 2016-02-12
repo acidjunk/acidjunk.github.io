@@ -3,7 +3,7 @@ id: 1136
 title: Install virtualenv on OSX
 date: 2015-06-02T08:14:14+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1136
 permalink: /2015/06/install-virtualenv-on-osx/
 categories:

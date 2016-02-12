@@ -3,7 +3,7 @@ id: 892
 title: Using vertically tiling background images for tables and tables cells in outlook 2007 and outlook 2010 to make fancy e-mail newsletters
 date: 2013-10-10T18:54:35+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=892
 permalink: /2013/10/using-vertically-tiling-background-images-in-tables-and-table-cells-in-outlook-2007-and-outlook-2010-to-make-fancy-e-mail-newsletters/
 categories:

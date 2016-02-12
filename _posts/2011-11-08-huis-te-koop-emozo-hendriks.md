@@ -3,7 +3,7 @@ id: 388
 title: Huis te koop nu ook op emozo
 date: 2011-11-08T14:37:50+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=388
 permalink: /2011/11/huis-te-koop-emozo-hendriks/
 categories:

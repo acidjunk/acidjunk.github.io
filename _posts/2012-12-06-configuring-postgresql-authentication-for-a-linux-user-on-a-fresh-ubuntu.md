@@ -3,7 +3,7 @@ id: 646
 title: Configuring postgresql authentication for a linux user on a fresh Ubuntu
 date: 2012-12-06T18:04:44+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=646
 permalink: /2012/12/configuring-postgresql-authentication-for-a-linux-user-on-a-fresh-ubuntu/
 categories:

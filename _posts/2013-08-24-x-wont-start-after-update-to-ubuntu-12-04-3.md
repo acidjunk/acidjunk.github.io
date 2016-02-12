@@ -3,7 +3,7 @@ id: 856
 title: 'Fixed: X won&#8217;t start after update to Ubuntu 12.04.3'
 date: 2013-08-24T19:07:54+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=856
 permalink: /2013/08/x-wont-start-after-update-to-ubuntu-12-04-3/
 categories:

@@ -3,7 +3,7 @@ id: 1045
 title: Install Weasyprint on Ubuntu 12.04 64 bit
 date: 2014-09-18T08:57:05+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1045
 permalink: /2014/09/install-weasyprint-on-ubuntu-12-04-64-bit/
 categories:

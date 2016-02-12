@@ -3,7 +3,7 @@ id: 471
 title: Building Fancy DMG Images on Mac OS X
 date: 2012-04-01T02:17:34+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=471
 permalink: /2012/04/building-fancy-dmg-images-on-mac-os-x/
 categories:

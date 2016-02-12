@@ -3,7 +3,7 @@ id: 40
 title: Reverse SSH tunnel
 date: 2010-03-09T21:46:58+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=40
 permalink: /2010/03/reverse-ssh-tunnel/
 categories:

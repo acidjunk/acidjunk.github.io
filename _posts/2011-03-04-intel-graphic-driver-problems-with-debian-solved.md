@@ -3,7 +3,7 @@ id: 144
 title: Intel graphic driver problems with debian solved
 date: 2011-03-04T23:09:48+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=144
 permalink: /2011/03/intel-graphic-driver-problems-with-debian-solved/
 categories:

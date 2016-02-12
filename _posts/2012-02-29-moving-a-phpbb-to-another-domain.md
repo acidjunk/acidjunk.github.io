@@ -3,7 +3,7 @@ id: 490
 title: Moving a phpBB to another domain
 date: 2012-02-29T21:51:23+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=490
 permalink: /2012/02/moving-a-phpbb-to-another-domain/
 categories:

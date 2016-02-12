@@ -3,7 +3,7 @@ id: 339
 title: Rsync examples
 date: 2011-11-02T19:52:28+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=339
 permalink: /2011/11/rsync-examples/
 categories:

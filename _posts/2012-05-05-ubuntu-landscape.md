@@ -3,7 +3,7 @@ id: 559
 title: Ubuntu landscape??
 date: 2012-05-05T19:50:59+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=559
 permalink: /2012/05/ubuntu-landscape/
 categories:

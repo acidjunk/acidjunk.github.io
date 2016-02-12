@@ -3,7 +3,7 @@ id: 966
 title: Downloading OpenStack images with Glance
 date: 2014-01-10T23:58:52+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=966
 permalink: /2014/01/downloading-openstack-images-with-glance/
 categories:

@@ -3,7 +3,7 @@ id: 160
 title: Using a readonly filesystem with debian unstable
 date: 2011-03-10T00:14:45+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=160
 permalink: /2011/03/using-a-readonly-filesystem-with-debian-unstable/
 categories:

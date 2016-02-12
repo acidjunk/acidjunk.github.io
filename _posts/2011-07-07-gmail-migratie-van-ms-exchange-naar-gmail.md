@@ -3,7 +3,7 @@ id: 244
 title: 'Gmail migratie: van MS exchange naar Gmail'
 date: 2011-07-07T18:55:58+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=244
 permalink: /2011/07/gmail-migratie-van-ms-exchange-naar-gmail/
 categories:

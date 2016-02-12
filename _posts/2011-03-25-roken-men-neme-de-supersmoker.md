@@ -3,7 +3,7 @@ id: 163
 title: Roken? men neme de supersmoker
 date: 2011-03-25T22:39:23+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=163
 permalink: /2011/03/roken-men-neme-de-supersmoker/
 categories:

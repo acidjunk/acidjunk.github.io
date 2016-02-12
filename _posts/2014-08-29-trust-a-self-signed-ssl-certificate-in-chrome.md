@@ -3,7 +3,7 @@ id: 1044
 title: Trust a self signed SSL certificate in Chrome
 date: 2014-08-29T22:51:41+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1044
 permalink: /2014/08/trust-a-self-signed-ssl-certificate-in-chrome/
 categories:

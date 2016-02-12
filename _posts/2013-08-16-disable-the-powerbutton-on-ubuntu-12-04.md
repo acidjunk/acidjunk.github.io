@@ -3,7 +3,7 @@ id: 853
 title: Disable the powerbutton on Ubuntu 12.04
 date: 2013-08-16T21:23:19+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=853
 permalink: /2013/08/disable-the-powerbutton-on-ubuntu-12-04/
 categories:

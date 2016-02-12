@@ -3,7 +3,7 @@ id: 330
 title: Web2py resources
 date: 2011-10-20T20:44:35+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=330
 permalink: /2011/10/web2py-resources/
 categories:

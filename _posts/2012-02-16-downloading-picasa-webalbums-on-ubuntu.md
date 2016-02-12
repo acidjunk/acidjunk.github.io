@@ -3,7 +3,7 @@ id: 481
 title: Downloading picasa webalbums on Ubuntu
 date: 2012-02-16T15:00:51+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=481
 permalink: /2012/02/downloading-picasa-webalbums-on-ubuntu/
 categories:

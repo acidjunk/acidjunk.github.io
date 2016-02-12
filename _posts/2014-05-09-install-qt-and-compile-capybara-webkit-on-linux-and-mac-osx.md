@@ -3,7 +3,7 @@ id: 1029
 title: Install Qt and compile Capybara webkit on Linux and mac OSX
 date: 2014-05-09T23:03:06+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1029
 permalink: /2014/05/install-qt-and-compile-capybara-webkit-on-linux-and-mac-osx/
 categories:

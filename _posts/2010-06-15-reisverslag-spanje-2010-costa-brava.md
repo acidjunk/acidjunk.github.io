@@ -3,7 +3,7 @@ id: 69
 title: Reisverslag Spanje 2010, Costa brava
 date: 2010-06-15T22:04:32+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=69
 permalink: /2010/06/reisverslag-spanje-2010-costa-brava/
 categories:

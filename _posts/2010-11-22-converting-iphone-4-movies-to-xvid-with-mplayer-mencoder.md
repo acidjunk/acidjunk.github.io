@@ -3,7 +3,7 @@ id: 71
 title: Converting iphone 4 movies to xvid with mplayer / mencoder
 date: 2010-11-22T22:06:06+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=71
 permalink: /2010/11/converting-iphone-4-movies-to-xvid-with-mplayer-mencoder/
 categories:

@@ -3,7 +3,7 @@ id: 253
 title: Boxee with Ubuntu 11.04
 date: 2011-07-08T22:46:57+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=253
 permalink: /2011/07/boxee-with-ubuntu-11-04/
 categories:

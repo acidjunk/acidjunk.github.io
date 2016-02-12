@@ -3,7 +3,7 @@ id: 926
 title: Spam van Zzap-online.eu
 date: 2013-10-28T20:17:17+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=926
 permalink: /2013/10/spam-van-zzap-online-eu/
 categories:

@@ -3,7 +3,7 @@ id: 175
 title: Netmasks , reference table
 date: 2011-03-24T22:44:53+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=175
 permalink: /2011/03/netmasks-reference-table/
 categories:

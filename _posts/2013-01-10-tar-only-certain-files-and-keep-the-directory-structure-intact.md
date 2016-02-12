@@ -3,7 +3,7 @@ id: 700
 title: Zip only certain files and keep the directory structure intact
 date: 2013-01-10T20:55:13+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=700
 permalink: /2013/01/tar-only-certain-files-and-keep-the-directory-structure-intact/
 categories:

@@ -3,7 +3,7 @@ id: 36
 title: Shutdown computer as non root user
 date: 2010-05-11T21:42:33+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=36
 permalink: /2010/05/shutdown-computer-as-non-root-user/
 categories:

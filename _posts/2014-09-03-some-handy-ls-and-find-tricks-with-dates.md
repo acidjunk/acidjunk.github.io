@@ -3,7 +3,7 @@ id: 1049
 title: Some handy ls and find tricks with dates
 date: 2014-09-03T18:55:09+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1049
 permalink: /2014/09/some-handy-ls-and-find-tricks-with-dates/
 categories:

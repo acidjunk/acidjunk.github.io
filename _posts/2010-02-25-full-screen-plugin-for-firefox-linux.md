@@ -3,7 +3,7 @@ id: 28
 title: Full screen plugin for firefox, linux
 date: 2010-02-25T21:38:45+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=28
 permalink: /2010/02/full-screen-plugin-for-firefox-linux/
 categories:

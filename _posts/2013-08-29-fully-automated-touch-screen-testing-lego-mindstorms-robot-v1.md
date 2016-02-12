@@ -3,7 +3,7 @@ id: 874
 title: Fully automated touch screen testing lego mindstorms robot v1
 date: 2013-08-29T17:41:27+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=874
 permalink: /2013/08/fully-automated-touch-screen-testing-lego-mindstorms-robot-v1/
 categories:

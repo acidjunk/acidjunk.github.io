@@ -3,7 +3,7 @@ id: 5
 title: 'Debian : howto use pinning'
 date: 2010-12-11T21:19:15+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=5
 permalink: /2010/12/debian-howto-use-pinning/
 categories:

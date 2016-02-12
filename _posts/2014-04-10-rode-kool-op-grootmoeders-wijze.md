@@ -3,7 +3,7 @@ id: 1021
 title: Rode kool op grootmoeders wijze
 date: 2014-04-10T22:06:27+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1021
 permalink: /2014/04/rode-kool-op-grootmoeders-wijze/
 categories:

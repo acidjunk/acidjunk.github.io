@@ -3,7 +3,7 @@ id: 59
 title: Installing pygame 1.9 / seniorplay on snow leopard, without X
 date: 2010-06-23T21:59:15+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=59
 permalink: /2010/06/installing-pygame-1-9-seniorplay-on-snow-leopard-without-x/
 categories:

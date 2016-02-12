@@ -3,7 +3,7 @@ id: 506
 title: Install pygame on Mac OSX via homebrew
 date: 2012-04-14T18:49:40+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=506
 permalink: /2012/04/install-pygame-on-mac-osx-via-homebrew/
 categories:

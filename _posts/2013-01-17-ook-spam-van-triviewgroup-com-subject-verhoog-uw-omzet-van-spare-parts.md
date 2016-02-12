@@ -3,7 +3,7 @@ id: 717
 title: 'Ook spam van triviewgroup.com? Subject: Verhoog uw omzet van spare parts'
 date: 2013-01-17T02:56:08+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=717
 permalink: /2013/01/ook-spam-van-triviewgroup-com-subject-verhoog-uw-omzet-van-spare-parts/
 categories:

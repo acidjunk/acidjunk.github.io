@@ -3,7 +3,7 @@ id: 1034
 title: Determine sqlite table size on disk
 date: 2014-05-28T19:58:48+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1034
 permalink: /2014/05/determine-sqlite-table-size-on-disk/
 categories:

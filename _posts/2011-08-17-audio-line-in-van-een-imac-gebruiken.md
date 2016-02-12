@@ -3,7 +3,7 @@ id: 267
 title: Audio line in van een imac gebruiken
 date: 2011-08-17T23:19:21+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=267
 permalink: /2011/08/audio-line-in-van-een-imac-gebruiken/
 categories:

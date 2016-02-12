@@ -3,7 +3,7 @@ id: 416
 title: Building a stand alone Mplayer for OSX
 date: 2012-05-20T00:50:28+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=416
 permalink: /2012/05/building-a-stand-alone-mplayer-for-osx/
 categories:

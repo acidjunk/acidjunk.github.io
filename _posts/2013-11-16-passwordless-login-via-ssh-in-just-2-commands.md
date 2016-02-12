@@ -3,7 +3,7 @@ id: 950
 title: Passwordless login via ssh in just 2 commands!
 date: 2013-11-16T20:00:44+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=950
 permalink: /2013/11/passwordless-login-via-ssh-in-just-2-commands/
 categories:

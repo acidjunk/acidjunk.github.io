@@ -3,7 +3,7 @@ id: 38
 title: Studio Brussel
 date: 2010-07-11T21:45:08+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=38
 permalink: /2010/07/studio-brussel/
 enclosure:

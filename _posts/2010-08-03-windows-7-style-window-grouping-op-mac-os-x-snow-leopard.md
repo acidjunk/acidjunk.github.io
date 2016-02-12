@@ -3,7 +3,7 @@ id: 57
 title: Windows 7 style window grouping op MAC OS X snow leopard
 date: 2010-08-03T21:56:53+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=57
 permalink: /2010/08/windows-7-style-window-grouping-op-mac-os-x-snow-leopard/
 categories:

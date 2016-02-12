@@ -3,7 +3,7 @@ id: 136
 title: Volkskrant OCR probleem opgelost
 date: 2011-03-01T17:08:23+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=136
 permalink: /2011/03/volkskrant-op-de-ipad/
 categories:

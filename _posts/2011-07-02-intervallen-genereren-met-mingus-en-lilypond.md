@@ -3,7 +3,7 @@ id: 193
 title: Intervallen genereren met mingus en lilypond
 date: 2011-07-02T16:36:00+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=193
 permalink: /2011/07/intervallen-genereren-met-mingus-en-lilypond/
 categories:

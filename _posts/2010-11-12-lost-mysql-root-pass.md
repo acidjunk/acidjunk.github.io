@@ -3,7 +3,7 @@ id: 73
 title: Lost MySQL root pass?
 date: 2010-11-12T22:07:12+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=73
 permalink: /2010/11/lost-mysql-root-pass/
 categories:

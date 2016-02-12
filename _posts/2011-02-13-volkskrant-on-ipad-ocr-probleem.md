@@ -3,7 +3,7 @@ id: 86
 title: 'Volkskrant on Ipad &#8211; OCR probleem'
 date: 2011-02-13T12:29:47+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=86
 permalink: /2011/02/volkskrant-on-ipad-ocr-probleem/
 categories:

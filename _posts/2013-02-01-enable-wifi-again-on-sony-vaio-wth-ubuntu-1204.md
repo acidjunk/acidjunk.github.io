@@ -3,7 +3,7 @@ id: 751
 title: Enable WIFI again on Sony Vaio with Ubuntu 12.04
 date: 2013-02-01T20:56:23+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=751
 permalink: /2013/02/enable-wifi-again-on-sony-vaio-wth-ubuntu-1204/
 categories:

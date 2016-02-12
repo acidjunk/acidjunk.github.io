@@ -3,7 +3,7 @@ id: 24
 title: 'Hacking gnome: screwed up? A quick gnome restore guide'
 date: 2010-02-26T21:37:23+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=24
 permalink: /2010/02/hacking-gnome-screwed-up-a-quick-gnome-restore-guide/
 categories:

@@ -3,7 +3,7 @@ id: 47
 title: Nieuw mailinglist systeempje, super simpel
 date: 2010-04-21T10:50:05+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=47
 permalink: /2010/04/nieuw-mailinglist-systeempje-super-simpel/
 categories:

@@ -3,7 +3,7 @@ id: 857
 title: Configure multicast network traffic to go over a specific network interface on linux
 date: 2013-08-24T23:47:20+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=857
 permalink: /2013/08/configure-multicast-network-traffic-to-go-over-a-specific-network-interface/
 categories:

@@ -3,7 +3,7 @@ id: 42
 title: 'Crontab: a Quick reference'
 date: 2010-04-15T21:48:05+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=42
 permalink: /2010/04/crontab-a-quick-reference/
 categories:

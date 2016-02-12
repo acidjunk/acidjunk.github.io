@@ -3,7 +3,7 @@ id: 13
 title: Installing childsplay on MAC OSX 10.5 or 10.6 inside Xwindows
 date: 2010-09-22T21:28:59+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=13
 permalink: /2010/09/installing-childsplay-on-mac-osx-10-5-or-10-6-inside-xwindows/
 categories:

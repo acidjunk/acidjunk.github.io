@@ -3,7 +3,7 @@ id: 1076
 title: Stop/Start or Restart Symform linux service
 date: 2014-12-19T14:04:37+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1076
 permalink: /2014/12/stopstart-or-restart-symform-linux-service/
 categories:

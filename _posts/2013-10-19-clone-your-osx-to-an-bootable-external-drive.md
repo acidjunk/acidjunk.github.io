@@ -3,7 +3,7 @@ id: 924
 title: Clone your OSX to an bootable external drive
 date: 2013-10-19T11:48:42+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=924
 permalink: /2013/10/clone-your-osx-to-an-bootable-external-drive/
 categories:

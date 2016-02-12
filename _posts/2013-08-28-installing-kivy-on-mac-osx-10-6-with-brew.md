@@ -3,7 +3,7 @@ id: 863
 title: Installing kivy on Mac OSX 10.6 with brew
 date: 2013-08-28T00:19:14+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=863
 permalink: /2013/08/installing-kivy-on-mac-osx-10-6-with-brew/
 categories:

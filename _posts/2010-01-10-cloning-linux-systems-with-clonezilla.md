@@ -3,7 +3,7 @@ id: 31
 title: Cloning Linux systems with CloneZilla
 date: 2010-01-10T21:40:07+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=31
 permalink: /2010/01/cloning-linux-systems-with-clonezilla/
 categories:

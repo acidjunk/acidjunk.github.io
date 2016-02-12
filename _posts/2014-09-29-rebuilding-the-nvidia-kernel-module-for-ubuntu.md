@@ -3,7 +3,7 @@ id: 1003
 title: Rebuilding the nvidia kernel module for Ubuntu
 date: 2014-09-29T12:02:33+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1003
 permalink: /2014/09/rebuilding-the-nvidia-kernel-module-for-ubuntu/
 categories:

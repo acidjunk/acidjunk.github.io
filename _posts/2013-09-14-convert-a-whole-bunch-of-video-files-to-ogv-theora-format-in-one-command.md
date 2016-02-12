@@ -3,7 +3,7 @@ id: 886
 title: Convert a whole bunch of video files to .ogv theora format in one command
 date: 2013-09-14T03:39:10+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=886
 permalink: /2013/09/convert-a-whole-bunch-of-video-files-to-ogv-theora-format-in-one-command/
 categories:

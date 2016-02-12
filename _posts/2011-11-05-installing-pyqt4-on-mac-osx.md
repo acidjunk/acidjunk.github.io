@@ -3,7 +3,7 @@ id: 346
 title: installing PyQT4 on Mac OSX
 date: 2011-11-05T13:31:57+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=346
 permalink: /2011/11/installing-pyqt4-on-mac-osx/
 categories:

@@ -3,7 +3,7 @@ id: 790
 title: Why json is better for easy data exchange
 date: 2013-04-02T05:15:40+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=790
 permalink: /2013/04/why-json-is-better-for-easy-data-exchange/
 categories:

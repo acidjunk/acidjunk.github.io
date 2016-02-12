@@ -3,7 +3,7 @@ id: 1098
 title: 'Some funny scrum video&#8217;s'
 date: 2015-02-14T02:26:56+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1098
 permalink: /2015/02/some-funny-scrum-videos/
 categories:

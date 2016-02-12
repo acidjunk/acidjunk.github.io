@@ -3,7 +3,7 @@ id: 961
 title: Bypassing the big Chinese firewall
 date: 2014-01-10T21:52:58+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=961
 permalink: /2014/01/bypassing-the-big-chinese-firewall/
 categories:

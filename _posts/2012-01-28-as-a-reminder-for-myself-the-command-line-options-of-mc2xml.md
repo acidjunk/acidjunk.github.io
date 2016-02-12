@@ -3,7 +3,7 @@ id: 462
 title: As a reminder for myself, the command line options of mc2xml
 date: 2012-01-28T19:54:48+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=462
 permalink: /2012/01/as-a-reminder-for-myself-the-command-line-options-of-mc2xml/
 categories:

@@ -3,7 +3,7 @@ id: 510
 title: Uninstall brew, to do a clean reinstall
 date: 2012-04-04T16:26:40+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=510
 permalink: /2012/04/uninstall-brew-to-do-a-clean-reinstall/
 categories:

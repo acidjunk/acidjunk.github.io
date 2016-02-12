@@ -3,7 +3,7 @@ id: 61
 title: PHP5 op snowleopard activeren, zonder MAMP install
 date: 2010-06-24T22:00:14+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=61
 permalink: /2010/06/php5-op-snowleopard-activeren-zonder-mamp-install/
 categories:

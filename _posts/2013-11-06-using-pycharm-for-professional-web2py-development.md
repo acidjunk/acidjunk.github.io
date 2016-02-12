@@ -3,7 +3,7 @@ id: 938
 title: Using PyCharm for professional web2py development
 date: 2013-11-06T20:56:41+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=938
 permalink: /2013/11/using-pycharm-for-professional-web2py-development/
 categories:

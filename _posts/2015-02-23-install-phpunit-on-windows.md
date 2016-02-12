@@ -3,7 +3,7 @@ id: 1103
 title: Install phpunit on windows
 date: 2015-02-23T13:53:08+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1103
 permalink: /2015/02/install-phpunit-on-windows/
 categories:

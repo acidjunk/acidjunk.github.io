@@ -3,7 +3,7 @@ id: 261
 title: Create a new remote GIT branch
 date: 2011-07-27T16:19:39+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=261
 permalink: /2011/07/create-a-new-remote-git-branch/
 categories:

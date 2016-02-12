@@ -3,7 +3,7 @@ id: 733
 title: Remove a python dependency by hand
 date: 2013-05-29T17:47:42+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=733
 permalink: /2013/05/remove-a-python-dependency-by-hand/
 categories:

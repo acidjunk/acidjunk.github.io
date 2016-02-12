@@ -3,7 +3,7 @@ id: 44
 title: New (not cool) PS3 update
 date: 2010-04-21T21:49:11+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=44
 permalink: /2010/04/new-not-cool-ps3-update/
 categories:

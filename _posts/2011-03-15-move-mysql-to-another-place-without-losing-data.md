@@ -3,7 +3,7 @@ id: 166
 title: Move mysql to another place without losing data
 date: 2011-03-15T15:50:29+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=166
 permalink: /2011/03/move-mysql-to-another-place-without-losing-data/
 categories:

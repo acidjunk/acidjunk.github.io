@@ -3,7 +3,7 @@ id: 297
 title: New python based framework
 date: 2011-09-13T21:51:44+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=297
 permalink: /2011/09/new-python-based-framework/
 categories:

@@ -3,7 +3,7 @@ id: 198
 title: Snel een nested git repository opschonen
 date: 2011-06-23T21:15:07+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=198
 permalink: /2011/06/snel-een-nested-git-repository-opschonen/
 categories:

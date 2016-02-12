@@ -3,7 +3,7 @@ id: 894
 title: Netflix bekijken met Ubuntu 12.04 en andere Linux varianten
 date: 2013-10-15T23:36:08+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=894
 permalink: /2013/10/netflix-bekijken-met-ubuntu-12-04-en-andere-linux-varianten/
 categories:

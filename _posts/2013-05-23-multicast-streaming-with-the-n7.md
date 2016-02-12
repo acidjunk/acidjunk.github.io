@@ -3,7 +3,7 @@ id: 831
 title: Howto setup multicast streaming with the Anysee N7 network tuner
 date: 2013-05-23T10:00:44+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=831
 permalink: /2013/05/multicast-streaming-with-the-n7/
 categories:

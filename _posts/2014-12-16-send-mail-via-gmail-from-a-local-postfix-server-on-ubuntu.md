@@ -3,7 +3,7 @@ id: 1079
 title: Send mail via Gmail from a local postfix server on Ubuntu
 date: 2014-12-16T23:22:52+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1079
 permalink: /2014/12/send-mail-via-gmail-from-a-local-postfix-server-on-ubuntu/
 categories:

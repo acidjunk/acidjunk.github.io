@@ -3,7 +3,7 @@ id: 11
 title: First attempt to get Wiimotes working with Ubuntu Lucid
 date: 2010-08-23T21:27:01+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=11
 permalink: /2010/08/first-attempt-to-get-wiimotes-working-with-ubuntu-lucid/
 categories:

@@ -3,7 +3,7 @@ id: 622
 title: A quick way to make a USB bootable Ubuntu on OSX.
 date: 2012-11-16T18:42:38+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=622
 permalink: /2012/11/a-quick-way-to-make-a-usb-bootable-ubuntu-on-osx/
 categories:

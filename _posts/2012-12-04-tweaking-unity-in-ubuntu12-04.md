@@ -3,7 +3,7 @@ id: 590
 title: Tweaking Unity in Ubuntu12.04
 date: 2012-12-04T23:05:50+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=590
 permalink: /2012/12/tweaking-unity-in-ubuntu12-04/
 categories:

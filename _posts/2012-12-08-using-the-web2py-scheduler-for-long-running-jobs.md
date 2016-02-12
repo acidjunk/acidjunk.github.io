@@ -3,7 +3,7 @@ id: 661
 title: Using the web2py scheduler for long running jobs
 date: 2012-12-08T02:58:51+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=661
 permalink: /2012/12/using-the-web2py-scheduler-for-long-running-jobs/
 categories:

@@ -3,7 +3,7 @@ id: 987
 title: Running Unity3D webplayer on your linux box
 date: 2014-03-11T00:35:32+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=987
 permalink: /2014/03/running-unity3d-webplayer-on-your-linux-box/
 categories:

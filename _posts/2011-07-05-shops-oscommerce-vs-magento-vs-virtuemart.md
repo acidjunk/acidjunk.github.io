@@ -3,7 +3,7 @@ id: 204
 title: Shops osCommerce vs Magento vs VirtueMart
 date: 2011-07-05T20:26:30+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=204
 permalink: /2011/07/shops-oscommerce-vs-magento-vs-virtuemart/
 categories:

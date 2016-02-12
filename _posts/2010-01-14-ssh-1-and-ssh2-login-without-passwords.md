@@ -3,7 +3,7 @@ id: 33
 title: 'SSH 1 and SSH2: Login without passwords'
 date: 2010-01-14T21:41:11+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=33
 permalink: /2010/01/ssh-1-and-ssh2-login-without-passwords/
 categories:

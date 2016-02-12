@@ -3,7 +3,7 @@ id: 210
 title: Dual screen setup with gnome shell
 date: 2011-06-29T13:59:54+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=210
 permalink: /2011/06/dual-screen-setup-with-gnome-shell/
 categories:

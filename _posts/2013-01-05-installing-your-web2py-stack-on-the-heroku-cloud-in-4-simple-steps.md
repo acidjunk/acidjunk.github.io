@@ -3,7 +3,7 @@ id: 690
 title: Installing your web2py Stack on the Heroku cloud in 4 simple steps
 date: 2013-01-05T22:26:32+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=690
 permalink: /2013/01/installing-your-web2py-stack-on-the-heroku-cloud-in-4-simple-steps/
 categories:

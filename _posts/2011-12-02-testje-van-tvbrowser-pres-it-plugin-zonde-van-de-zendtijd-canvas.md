@@ -3,7 +3,7 @@ id: 413
 title: 'Testje van tvbrowser &#8220;share this&#8221; plugin: Zonde van de zendtijd (Canvas)'
 date: 2011-12-02T01:49:19+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=413
 permalink: /2011/12/testje-van-tvbrowser-pres-it-plugin-zonde-van-de-zendtijd-canvas/
 categories:

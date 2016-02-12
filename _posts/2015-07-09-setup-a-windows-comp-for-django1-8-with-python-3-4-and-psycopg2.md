@@ -3,7 +3,7 @@ id: 1140
 title: Setup a windows comp for Django1.8 with Python 3.4 and Psycopg2
 date: 2015-07-09T07:59:30+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1140
 permalink: /2015/07/setup-a-windows-comp-for-django1-8-with-python-3-4-and-psycopg2/
 categories:

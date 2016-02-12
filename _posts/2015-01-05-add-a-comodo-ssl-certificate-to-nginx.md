@@ -3,7 +3,7 @@ id: 1081
 title: Add a Comodo SSL certificate to NGINX
 date: 2015-01-05T22:17:17+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1081
 permalink: /2015/01/add-a-comodo-ssl-certificate-to-nginx/
 categories:

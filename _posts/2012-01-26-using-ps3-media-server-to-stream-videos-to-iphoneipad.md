@@ -3,7 +3,7 @@ id: 445
 title: 'Using PS3 mediaserver to stream video&#8217;s to iPhone/iPad'
 date: 2012-01-26T01:50:50+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=445
 permalink: /2012/01/using-ps3-media-server-to-stream-videos-to-iphoneipad/
 categories:

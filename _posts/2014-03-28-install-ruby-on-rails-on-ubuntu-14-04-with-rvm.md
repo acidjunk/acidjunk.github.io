@@ -3,7 +3,7 @@ id: 1018
 title: Install Ruby on Rails on Ubuntu 14.04 with RVM
 date: 2014-03-28T14:52:06+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1018
 permalink: /2014/03/install-ruby-on-rails-on-ubuntu-14-04-with-rvm/
 categories:

@@ -3,7 +3,7 @@ id: 723
 title: Setup Unity3d asset server on Linux
 date: 2013-01-22T21:15:13+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=723
 permalink: /2013/01/setup-unity3d-asset-server-on-linux/
 categories:

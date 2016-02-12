@@ -3,7 +3,7 @@ id: 243
 title: howto securely delete/wipe files on linux
 date: 2011-07-20T14:41:35+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=243
 permalink: /2011/07/howto-securely-deletewipe-files-on-linux/
 categories:

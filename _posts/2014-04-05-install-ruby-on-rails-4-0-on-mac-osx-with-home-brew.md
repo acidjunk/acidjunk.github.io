@@ -3,7 +3,7 @@ id: 1006
 title: Install Ruby on Rails 4.0 on Mac OSX with home-brew
 date: 2014-04-05T02:05:14+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1006
 permalink: /2014/04/install-ruby-on-rails-4-0-on-mac-osx-with-home-brew/
 categories:

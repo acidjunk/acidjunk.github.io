@@ -3,7 +3,7 @@ id: 52
 title: Usplash modding
 date: 2010-03-26T21:51:45+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=52
 permalink: /2010/03/usplash-modding/
 categories:

@@ -3,7 +3,7 @@ id: 109
 title: Paddenstoel risotto
 date: 2011-02-19T19:56:56+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=109
 permalink: /2011/02/paddenstoel-risotto/
 categories:

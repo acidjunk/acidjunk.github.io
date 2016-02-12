@@ -3,7 +3,7 @@ id: 275
 title: Some scripts to watch and record TV
 date: 2011-08-18T01:04:00+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=275
 permalink: /2011/08/some-scripts-to-watch-and-record-tv/
 categories:

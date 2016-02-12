@@ -3,7 +3,7 @@ id: 55
 title: Face detection in a life video stream
 date: 2010-08-13T21:52:59+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=55
 permalink: /2010/08/face-detection-in-a-life-video-stream/
 categories:

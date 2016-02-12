@@ -3,7 +3,7 @@ id: 474
 title: Gnome and KDE to slow? Reclaim your desktop with xfce4 or LXDE
 date: 2012-09-06T00:29:17+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=474
 permalink: /2012/09/gnome-and-kde-to-slow-reclaim-your-desktop-with-xfce4-or-lxde/
 categories:

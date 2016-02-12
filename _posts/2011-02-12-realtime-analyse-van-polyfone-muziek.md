@@ -3,7 +3,7 @@ id: 81
 title: Realtime analyse van polyfone muziek
 date: 2011-02-12T11:07:37+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=81
 permalink: /2011/02/realtime-analyse-van-polyfone-muziek/
 categories:

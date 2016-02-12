@@ -3,7 +3,7 @@ id: 748
 title: The Leapmotion development kit has arrived!
 date: 2013-01-31T20:12:29+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=748
 permalink: /2013/01/the-leapmotion-development-kit-has-arrived/
 categories:

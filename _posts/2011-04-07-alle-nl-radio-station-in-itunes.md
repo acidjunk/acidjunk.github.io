@@ -3,7 +3,7 @@ id: 185
 title: Alle NL radio station in iTunes
 date: 2011-04-07T11:24:05+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=185
 permalink: /2011/04/alle-nl-radio-station-in-itunes/
 categories:

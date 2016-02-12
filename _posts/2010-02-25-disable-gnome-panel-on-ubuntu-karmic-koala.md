@@ -3,7 +3,7 @@ id: 22
 title: Disable Gnome-Panel on Ubuntu Karmic Koala
 date: 2010-02-25T21:35:31+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=22
 permalink: /2010/02/disable-gnome-panel-on-ubuntu-karmic-koala/
 categories:

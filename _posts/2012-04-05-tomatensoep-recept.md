@@ -3,7 +3,7 @@ id: 536
 title: Tomatensoep recept
 date: 2012-04-05T20:56:06+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=536
 permalink: /2012/04/tomatensoep-recept/
 categories:

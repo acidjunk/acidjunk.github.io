@@ -3,7 +3,7 @@ id: 15
 title: Cool stuff with Pyglet
 date: 2010-09-27T21:30:00+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=15
 permalink: /2010/09/cool-stuff-with-pyglet/
 categories:

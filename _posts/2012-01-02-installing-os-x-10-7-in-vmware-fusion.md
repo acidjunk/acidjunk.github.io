@@ -3,7 +3,7 @@ id: 431
 title: Installing OS X 10.7 in VmWare Fusion
 date: 2012-01-02T20:26:13+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=431
 permalink: /2012/01/installing-os-x-10-7-in-vmware-fusion/
 categories:

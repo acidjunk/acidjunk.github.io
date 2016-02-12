@@ -3,7 +3,7 @@ id: 65
 title: 'How do I verify how many CPU&#8217;s I have in the Terminal'
 date: 2010-04-11T22:02:24+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=65
 permalink: /2010/04/how-do-i-verify-how-many-cpus-i-have-in-the-terminal/
 categories:

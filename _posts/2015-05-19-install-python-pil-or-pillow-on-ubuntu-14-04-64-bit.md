@@ -3,7 +3,7 @@ id: 1130
 title: Install python PIL or Pillow on Ubuntu 14.04 64 bit
 date: 2015-05-19T09:37:36+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=1130
 permalink: /2015/05/install-python-pil-or-pillow-on-ubuntu-14-04-64-bit/
 categories:

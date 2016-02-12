@@ -3,7 +3,7 @@ id: 199
 title: ImageMagick for batch processing images
 date: 2011-06-14T19:53:42+00:00
 author: acidjunk
-layout: inner
+layout: post
 guid: http://www.renedohmen.nl/blog/?p=199
 permalink: /2011/06/imagemagick-for-batch-processing-images/
 categories:
