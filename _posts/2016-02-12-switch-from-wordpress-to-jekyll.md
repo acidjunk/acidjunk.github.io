@@ -8,6 +8,7 @@ permalink: /2016/02/switch-from-wordpress-to-jekyll/
 categories:
   - Computerz
 header-img: "img/post-bg-02.jpg"
+comments: true
 ---
 As I don't do a lot with PHP nowadays the constant upgrading and other maintenance stuff for my old wordpress site 
 became a pain in the ass. So, as you can see, I decided to create a static site powered by Jekyll. Not only does this 
