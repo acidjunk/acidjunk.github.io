@@ -8,14 +8,17 @@ guid: http://www.renedohmen.nl/blog/?p=1140
 permalink: /2015/07/setup-a-windows-comp-for-django1-8-with-python-3-4-and-psycopg2/
 categories:
   - Computerz
+comments: true
 ---
 As a Linux user the installation of all deps is rather easy; you run a couple of apt-get installs and some pip installs inside a virtual env and your are good to go. On windows there are some steps you need to do by hand. Normally I like to compile my own C extensions where possible, but after 2 tries I gave up on that as you need to have a rather complex setup. Python 3.5 seems to solve this by allowing you to compile C extensions with another compiler versions then the one used to compile the used python version itself. So for now I sticked to using some binaries.
 
 ## Step 1: Install Python3.4
 
-I used the 64-bit MSI installer from https://www.python.org/downloads/release/python-343/. You can use the installer to add Python to your Path or do it by hand:
+I used the 64-bit MSI installer from [python.org](https://www.python.org/downloads/release/python-343/). You can use the installer to add Python to your Path or do it by hand:
   
+<pre>
 C:\Python34\;C:\Python34\Scripts\;
+</pre>
 
 ## Step 2: Create a virtualenv
 
@@ -26,8 +29,8 @@ cd .virtualenvs
 python -m venv django1.8-project
 </pre>
 
-You can now activate your virtual env by navigating to .virtualenvs/django1.8-project/bin
-  
+You can now activate your virtual env by navigating to 
+<pre>.virtualenvs/django1.8-project/bin</pre>
 and run activate.bat
 
 ## Step 3: Download a Psycopg2 binary
@@ -48,8 +51,7 @@ You can now proceed installing other packages, assuming no further C extensions 
 
 When working on another project you&#8217;ll probably have and requirements.txt. Go ahead and install the other deps. From an activated venv: 
 
-<pre>pip install -r requirements.txt
-</pre>
+<pre>pip install -r requirements.txt</pre>
 
 If you just want an empty Django project: you can save you virtualenv.
 

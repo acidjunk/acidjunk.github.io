@@ -10,6 +10,7 @@ permalink: /2015/09/install-python2-7-and-django-postgres-on-windows/
 categories:
   - Computerz
 header-img: "img/post-bg-01.jpg"
+comments: true
 ---
 Installing a quite normal Django stack on windows with postgres support yields a lot of questions on StackOverflow; especially the installation of psycopg2 can be a bit tricky. The typical error message you will receive is: Unable to find vcvarsall.bat. This message appears when a Python package contains the source code for a native extension module (.pyd), but does not have a pre-built copy of the module.
 

@@ -7,7 +7,7 @@ layout: post
 permalink: /2016/02/switch-from-wordpress-to-jekyll/
 categories:
   - Computerz
-header-img: "img/post-bg-02.jpg"
+header-img: "img/header-dev-01.jpg"
 comments: true
 ---
 As I don't do a lot with PHP nowadays the constant upgrading and other maintenance stuff for my old wordpress site 
