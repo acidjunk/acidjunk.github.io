@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=886
 permalink: /2013/09/convert-a-whole-bunch-of-video-files-to-ogv-theora-format-in-one-command/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 Just a short post as a reminder for myself. We do use a lot of ogv&#8217;s in our Narrow casting shows.
   

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1049
 permalink: /2014/09/some-handy-ls-and-find-tricks-with-dates/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 As a quick reminder for myself; some ls and find variations to do stuff with files and dates.
 

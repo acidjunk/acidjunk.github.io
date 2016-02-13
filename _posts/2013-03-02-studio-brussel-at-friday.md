@@ -9,6 +9,7 @@ permalink: /2013/03/studio-brussel-at-friday/
 categories:
   - Computerz
   - Muziek
+header-img: "img/home-bg.jpg"
 ---
 When I do my part of the code I like doing it on Friday night with some nice uptempo music. That&#8217;s if i&#8217;m not in a bar drinking beer or playing my sax.
 
@@ -21,7 +22,7 @@ mv http://mp3.streampower.be/stubru-high stubru_WEEKNUMBER_TAKENUMBER.mp3</pre>
 
 Some code to automate it in python (for easy crontab deployment)
 
-<pre class="prettyprint"># Script to record Studio Brussel at Friday
+<pre ># Script to record Studio Brussel at Friday
 # Default record time = 60 minutes
 # Best run from crontab
 DEBUG=True

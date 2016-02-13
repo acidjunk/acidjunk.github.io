@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=938
 permalink: /2013/11/using-pycharm-for-professional-web2py-development/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 Our current IDE, Eclipse with PyDEV has some nice features but feels rather slow and clumsy. You also have to install a lot of plugins to get a reasonably working development environment. If you also install egit you will need a fast computer with lots of RAM. Having a good IDE will boost productivity, especially in web2py projects were navigating between controllers and views involves a lot of files an folders.
 

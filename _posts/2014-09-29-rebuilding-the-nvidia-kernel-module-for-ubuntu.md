@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1003
 permalink: /2014/09/rebuilding-the-nvidia-kernel-module-for-ubuntu/
 categories:
   - Computerz
+header-img: "img/post-bg-08.jpg"
 ---
 I recently bought a GTX 750Ti which isn&#8217;t supported by Ubuntu&#8217;s drivers yet. So I installed the drivers from Nvidia itself. They work great, the card is very quiet and operates without getting hot at all. One problem: after running an Ubuntu update that updates your kernel it won&#8217;t work anymore.
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=950
 permalink: /2013/11/passwordless-login-via-ssh-in-just-2-commands/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 I already wrote some earlier posts on this topic; but I found a new command: ssh-copy-id; it&#8217;s brilliant.
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=966
 permalink: /2014/01/downloading-openstack-images-with-glance/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 When you create OpenStack snapshots you&#8217;ll also need to download the snapshot to a safe location. There are a couple of ways to do this; I&#8217;ll describe an easy way by using the command line tools.
 

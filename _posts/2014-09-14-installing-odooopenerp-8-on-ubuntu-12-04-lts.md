@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1054
 permalink: /2014/09/installing-odooopenerp-8-on-ubuntu-12-04-lts/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 # What is Odoo?
 

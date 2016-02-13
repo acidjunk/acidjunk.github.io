@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1018
 permalink: /2014/03/install-ruby-on-rails-on-ubuntu-14-04-with-rvm/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 Installing Ruby on Rails on Ubuntu is quite easy, but the Ubuntu packages install an outdated Ruby. The following instruction will probably work on older Ubuntu versions also, I just used the 14.04 test release to get a preview on the next LTS version of Ubuntu.
 

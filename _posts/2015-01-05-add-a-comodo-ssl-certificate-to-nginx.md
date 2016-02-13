@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1081
 permalink: /2015/01/add-a-comodo-ssl-certificate-to-nginx/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 The comodo SSL certs via https://ssls.com are very cheap. Install instructions for a Nginx based webstack:
 

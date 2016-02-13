@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1130
 permalink: /2015/05/install-python-pil-or-pillow-on-ubuntu-14-04-64-bit/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 Every now and then I have to install Python PIL or Pillow on an Ubuntu server. I mostly end up with problems like no jpeg support or no compressed png support. After some googling you will find all kinds of info consisting of creating symlinks on some locations so it will work on 64 bit Ubuntu etc.
 

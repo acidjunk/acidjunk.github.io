@@ -9,6 +9,7 @@ permalink: /2015/07/setup-a-windows-comp-for-django1-8-with-python-3-4-and-psyco
 categories:
   - Computerz
 comments: true
+header-img: "img/post-bg-01.jpg"
 ---
 As a Linux user the installation of all deps is rather easy; you run a couple of apt-get installs and some pip installs inside a virtual env and your are good to go. On windows there are some steps you need to do by hand. Normally I like to compile my own C extensions where possible, but after 2 tries I gave up on that as you need to have a rather complex setup. Python 3.5 seems to solve this by allowing you to compile C extensions with another compiler versions then the one used to compile the used python version itself. So for now I sticked to using some binaries.
 

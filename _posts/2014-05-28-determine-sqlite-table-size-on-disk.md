@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1034
 permalink: /2014/05/determine-sqlite-table-size-on-disk/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 I took me a while to find out that it&#8217;s not very easy to find out how big a sqlite table is on disk. But luckily the sqlite creators have a simple tool for that. It&#8217;s called sqlite3_analyzer and is available in precompiled format for Linux, Windows and OSX on [SQLite&#8217;s Download section](http://www.sqlite.org/download.html)
 

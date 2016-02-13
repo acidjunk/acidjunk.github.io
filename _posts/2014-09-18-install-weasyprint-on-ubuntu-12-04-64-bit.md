@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1045
 permalink: /2014/09/install-weasyprint-on-ubuntu-12-04-64-bit/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 I had to tweak some stuff to get a running Weasyprint on one of our Ubuntu servers; just following the install instructions from the docs didn&#8217;t work:
 

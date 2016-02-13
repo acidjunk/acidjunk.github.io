@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=857
 permalink: /2013/08/configure-multicast-network-traffic-to-go-over-a-specific-network-interface/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 I&#8217;m using eth2 to connect to a seperate LAN with only some multicast video streams on it. On my linux comp I have to force listening for multicast to eth2; here is how to do it.
 

@@ -10,6 +10,7 @@ permalink: /2015/06/install-virtualenv-and-virtualenvwrapper-on-osx/
 categories:
   - Computerz
   - OSX
+header-img: "img/post-bg-09.jpg"
 comments: true
 ---
 When running multiple python projects virtualenv is almost mandatory nowadays. It allows you to install python dependencies on a per project basis without screwing around with the OSX installed python. I especially like to install virtualenvwrapper also as it eases the way to create, used and delete virtual envs.

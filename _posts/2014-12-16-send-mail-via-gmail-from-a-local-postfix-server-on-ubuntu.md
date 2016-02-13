@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1079
 permalink: /2014/12/send-mail-via-gmail-from-a-local-postfix-server-on-ubuntu/
 categories:
   - Computerz
+header-img: "img/post-bg-07.jpg"
 ---
 If you want to use Gmail for sending mails from postfix follow this guide.
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=894
 permalink: /2013/10/netflix-bekijken-met-ubuntu-12-04-en-andere-linux-varianten/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 Met de komst van Netflix naar Nederland heb ik uiteraard een abonnement afgesloten om het het eens op mijn gemakt te gaan testen. Mac OSX, Windows -> werkt prima gewoon vanuit de browser. Door de DRM protectie en het gebruik van Microsoft Silverlight is het op dit moment echter onmogelijk met de standaard Linux browsers netflix te kijken. Met een klein beetje werk installeer je echter PipeLight; die dan weer een gepatchte versie van wine gebruikt om Netflix in Firefox en Chrome mogelijk te maken. Op mijn oude Quad core gebruikt dit wel redelijk permanent 1 volledige core.
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=863
 permalink: /2013/08/installing-kivy-on-mac-osx-10-6-with-brew/
 categories:
   - Computerz
+header-img: "img/post-bg-09.jpg"
 ---
 We are doing more and more cool kivy stuff so it&#8217;s time to get the designers happy and let it run from src on their workstations for easy access to the graphics and .kv files.
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=892
 permalink: /2013/10/using-vertically-tiling-background-images-in-tables-and-table-cells-in-outlook-2007-and-outlook-2010-to-make-fancy-e-mail-newsletters/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 After a whole day of searching the internet why tiling background won&#8217;t show up in a e-mail template when viewing the mail in Outlook 2007 or Outlook 2010 I finally found the answer on [stackoverflow](http://stackoverflow.com/questions/13335043/repeating-background-image-in-outlook-2007-2010-2013-and-gmail).
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=961
 permalink: /2014/01/bypassing-the-big-chinese-firewall/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 I made a couple of preparations to make sure I could use internet in China in a reliable way. I did some investigations on fora to find out what possible problems it could expect. Due to the new Google Profiles policy users seem to have problems with Google apps and Gmail login. Youtube and Facebook are impossible to use without some preparation. Downloading attachments in Gmail won&#8217;t work in a reliable way.
 

@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1044
 permalink: /2014/08/trust-a-self-signed-ssl-certificate-in-chrome/
 categories:
   - Computerz
+header-img: "img/post-bg-09.jpg"
 ---
 I&#8217;ve been using Google Chrome as my primary browser for the last few years. Sorry, Firefox, but with all the stuff I need to work installed, it&#8217;s to slow and almost unusable.
 

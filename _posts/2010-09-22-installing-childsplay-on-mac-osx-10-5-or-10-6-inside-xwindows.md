@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=13
 permalink: /2010/09/installing-childsplay-on-mac-osx-10-5-or-10-6-inside-xwindows/
 categories:
   - Computerz
+header-img: "img/post-bg-09.jpg"
 ---
 ﻿﻿This is what I did to get a recent childsplay from SVN running on the mac.
 

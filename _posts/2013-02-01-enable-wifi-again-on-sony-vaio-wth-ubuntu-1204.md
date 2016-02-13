@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=751
 permalink: /2013/02/enable-wifi-again-on-sony-vaio-wth-ubuntu-1204/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 After installing 12.04 on my vaio laptop everything was OK. But when I disabled the WIFI from the Ubuntu menu the wifi showed an message that it was turned off with the hardware switch.
 

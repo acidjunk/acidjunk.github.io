@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=856
 permalink: /2013/08/x-wont-start-after-update-to-ubuntu-12-04-3/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 I&#8217;m running a dual-screen set-up and need the proprietary drivers because the standard ones won&#8217;t drive the second screen at full resolution.
 

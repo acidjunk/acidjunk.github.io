@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1103
 permalink: /2015/02/install-phpunit-on-windows/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 You can use composer to install phpunit, for example, inside a Symfony2 project; but it&#8217;s better to install it as a separate binary as it allows you to run unit test on all php scripts and it integrates better in phpStorm.
 

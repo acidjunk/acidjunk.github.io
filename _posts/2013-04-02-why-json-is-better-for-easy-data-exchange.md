@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=790
 permalink: /2013/04/why-json-is-better-for-easy-data-exchange/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 ### <span style="font-size: 1.17em;">JSON: The Fat-Free Alternative to XML</span>
 

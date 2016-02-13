@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1006
 permalink: /2014/04/install-ruby-on-rails-4-0-on-mac-osx-with-home-brew/
 categories:
   - Computerz
+header-img: "img/post-bg-09.jpg"
 ---
 I recently started to do some development on some Rails4.0 based apps. Setting up a nice and clean Rails environment can be a hassle. The OSX/Windows instructions form railsinstalelr.org install an old version and are not working with Maverick, other instruction install macports; which I don&#8217;t like at all. So for OSX I followed the instructions on http://www.createdbypete.com/articles/ruby-on-rails-development-setup-for-mac-osx/
 

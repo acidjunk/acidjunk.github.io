@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=987
 permalink: /2014/03/running-unity3d-webplayer-on-your-linux-box/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 As NaCl builds are not working at all in Unity4.3 and Flash is most likely to be removed from future Unity versions the only native way to play Unity games on your Linux box is via a standalone game. But with the same technique that enables watching Netflix on Ubuntu it&#8217;s also possible to install the Unity Webplayer plguin for Chrome and Firefox.
 

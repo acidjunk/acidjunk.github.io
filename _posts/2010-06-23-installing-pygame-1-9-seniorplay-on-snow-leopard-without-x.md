@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=59
 permalink: /2010/06/installing-pygame-1-9-seniorplay-on-snow-leopard-without-x/
 categories:
   - Computerz
+header-img: "img/post-bg-09.jpg"
 ---
 Getting pygame going on MAC OSX is not for the fainthearted; so be warned&#8230;.
 

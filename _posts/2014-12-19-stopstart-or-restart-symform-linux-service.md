@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1076
 permalink: /2014/12/stopstart-or-restart-symform-linux-service/
 categories:
   - Computerz
+header-img: "img/post-bg-06.jpg"
 ---
 The Symform daemon is not a default Linux service so it took me a while to figure out how to start and stop it.
 

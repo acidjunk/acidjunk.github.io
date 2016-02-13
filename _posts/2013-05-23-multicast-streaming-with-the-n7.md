@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=831
 permalink: /2013/05/multicast-streaming-with-the-n7/
 categories:
   - Computerz
+header-img: "img/post-bg-02.jpg"
 ---
 Normally you connect to the N7 network tuner via HTTP protocol. That&#8217;s fine for a simple, single TV screen setup. If you want to watch television on multiple devices this won&#8217;t work simultaneous. So I started exploring the multicast streaming capabilities of the Anysee N7 network tuner. My first attempts were very discouraging, when I started the stream, my WIFI router (linksys WRT54GL) crashed immediately. Most of the time I tried to play the multicast stream with MPlayer but it needed a long time (> 30s) before it started playing at all. So after I bought a new WIFI router I tried it again with VLC. VLC seems to be the best Open Source multicast player out there at the moment; it can start playing a HD stream in less then a second with the setup I&#8217;ll describe below.
 

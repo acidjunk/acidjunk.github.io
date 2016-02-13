@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=733
 permalink: /2013/05/remove-a-python-dependency-by-hand/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 If you are on a system without pip or easyinstall, and you can&#8217;t use the OS package system: You need to remove all installed files manually, and also undo any other stuff that the installation did manually. Changes are that you don&#8217;t know the list of all files it installed, you can reinstall it with the &#8211;record option, and take a look at the list this produces.
 

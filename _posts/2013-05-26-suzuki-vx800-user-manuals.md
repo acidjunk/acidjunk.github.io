@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=832
 permalink: /2013/05/suzuki-vx800-user-manuals/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 I just bought a Suzuki VX 800 from 1997. Here are some photoos:
 

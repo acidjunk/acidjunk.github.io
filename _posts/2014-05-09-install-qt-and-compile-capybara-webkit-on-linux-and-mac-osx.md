@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=1029
 permalink: /2014/05/install-qt-and-compile-capybara-webkit-on-linux-and-mac-osx/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 To automate browser style testing in Ruby you can use Qt webkit caompatible browser with CapyBara.
   

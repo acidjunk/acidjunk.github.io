@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=767
 permalink: /2013/03/crowd-fund-the-raspberry-pi-kivy-project/
 categories:
   - Computerz
+header-img: "img/post-bg-01.jpg"
 ---
 Just donated a couple o dollars to the next exciting development: Kivy on Raspberry Pi. This could lead to an easy, hardware accelerated, python gaming device for 35 $.
 

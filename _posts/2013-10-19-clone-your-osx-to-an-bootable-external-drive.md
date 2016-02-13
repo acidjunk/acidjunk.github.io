@@ -8,6 +8,7 @@ guid: http://www.renedohmen.nl/blog/?p=924
 permalink: /2013/10/clone-your-osx-to-an-bootable-external-drive/
 categories:
   - Computerz
+header-img: "img/post-bg-09.jpg"
 ---
 Time Machine is great for everyday backups and simple file restores, but it only gives you the ability to restore your system after reinstalling OS X. It literally takes forever to restore a complete timemachine backup to a new mac. But what if disaster hits, and you don&#8217;t have this kind of luxury? A full clone of your Mac’s hard drive can really help get you back up and running in a matter of minutes. Read on to find out how to make a bootable clone of your Mac&#8217;s main hard drive and come back from a data disaster.
 
