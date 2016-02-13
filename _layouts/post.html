@@ -53,7 +53,7 @@ layout: default
                          */
                         
                         var disqus_config = function () {
-                            this.page.url = {% raw %}'{% endraw %}{{ page.url }}{% raw %}'{%endraw%};  // Replace PAGE_URL with your page's canonical URL variable
+                            this.page.url = {% raw %}'{% endraw %}{{ site.url }}{% raw %}'{%endraw%};  // Replace PAGE_URL with your page's canonical URL variable
                             this.page.identifier = {% raw %}'{% endraw %}{{ page.url }}{% raw %}'{%endraw%}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
                         };
                         
