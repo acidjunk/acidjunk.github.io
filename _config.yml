@@ -13,6 +13,8 @@ email_username:  acidjunk@gmail.com
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 permalink: pretty
 paginate: 20
