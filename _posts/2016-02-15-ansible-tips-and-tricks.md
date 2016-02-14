@@ -12,7 +12,7 @@ comments: true
 ---
 Recently I'm playing a lot with Ansible. The goal is to deploy a large Django stack to production with all kinds of high availability stuff. The components in this stack: CentOS, Postgres, Nginx with uWSGI and Django, RabbitMQ, several celery workers with supervisord. As a subgoal it would be nice to run the complete production environment also from inside a vagrant VM; but then with all components on a single host. 
 
-## Deploying a Django stack omn CentOS 6.5
+## Deploying a Django stack on CentOS 6.5
 A small, but complete, prototype can be found [here](https://github.com/acidjunk/ansible-centos-django-stack). It's based on a fork of [this](https://github.com/tcosta84/ansible-centos-django-stack)
 
 You can try this complete Django setup, when you already have Ansible, VirtualBox and Vagrant installed by running:
@@ -25,7 +25,7 @@ open "http://192.168.33.10"
 ```
 
 ## Working on your Ansible playbooks
-I use Submlime for editing. Because i'm used to PyCharms autosave I installed the Sublime's autosave plugin for that.
+I use Submlime for editing. Because i'm used to PyCharms autosave I installed the Sublime's autosave plugin for that. Sublime has excellent YAML syntax highlighting out of the box.
 
 ## Some handy commands
 As a quick reminder for myself I list some commands I used a lot while working on the Ansible scripts.
