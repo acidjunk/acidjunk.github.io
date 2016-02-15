@@ -15,6 +15,6 @@ I found a couple of pages which do almost the same thing, like: [this one](http
 
 The solution I used is based on a mix of extensions: first install the Full Fullscreen extension, this gets rid of the toolbars and statusbar while in fullscreen modus. I used version 3.3 on Ubuntu Karmic, found [here](https://addons.mozilla.org/nl/firefox/addon/1568)
 
-Next problem: the command line option -fullscreen doesnt work on ubuntu.
-  
+Next problem: the command line option `-fullscreen` doesn't work on ubuntu.
+
 At last I solved it with this very nice plugin: [R-Kiosk](https://addons.mozilla.org/en-US/firefox/addon/1659) version 0.7.4
