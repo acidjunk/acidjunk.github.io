@@ -25,13 +25,13 @@ open "http://192.168.33.10"
 ```
 
 ## Working on your Ansible playbooks
-I use Submlime for editing. Because i'm used to PyCharms autosave I installed the Sublime's autosave plugin for that. Sublime has excellent YAML syntax highlighting out of the box.
+I use Sublime for editing. Because i'm used to PyCharms autosave I installed the Sublime's autosave plugin for that. Sublime has excellent YAML syntax highlighting out of the box.
 
 ## Some handy commands
 As a quick reminder for myself I list some commands here that I used a lot while working on the Ansible scripts.
 
 ### Run commands on your cluster
-When you have an invenrtoy file with the group all:
+When you have an inventory file with the group all:
 
 ```bash
 ansible all -m command -a "uptime"
