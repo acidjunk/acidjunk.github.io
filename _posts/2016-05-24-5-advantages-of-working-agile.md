@@ -32,10 +32,19 @@ Each ticket in a sprint will go trough at least 4 stages: Not started, In progre
 
 As the stakeholders get a demo of the release they will be triggered to think about the possibilities. Often this will result in small changes in the roadmap, to adapt to new business oppurtunities, or new user wishes.
 
-Because scrum promotes changes you will deliver software that suits the changing perspective and requirements of the stakeholders better. It's very hard for humans to define a complex system in their heads; idea's start to live when people experiment with them. Other software methods will often kill the ability to adapt a running project as it's very costly to change all the requirement docs or all the planning. In Scrum you're planning get's more detailed towards the end, and stuff that's really done will get documented; that's how 
+Because scrum encourages changes you will deliver software that suits the changing perspective and requirements of the stakeholders better. It's very hard for humans to define a complex system in their heads; idea's start to live when people experiment with them. Other software methods will often kill the ability to adapt a running software development process as it's very costly to change all the requirement docs or all the planning. In Scrum you're planning get's more detailed towards the end, and stuff that's really done will get documented. This ensures the possibility to adapt and iterate without sacrificing the project quality.
 
 ## The process is transparant
-Stuff about communication around the proccesses. Scrum, as other Agile methods, uses feedback to improve the process. This leads to an open culture in which team members are stimulated to share their feelings and input. It's also important that team members can express impediments  
+Scrum, as other Agile methods, uses feedback to improve the process, it relies on transparancy. This leads to an open culture in which team members are stimulated to share their feelings and input. It's also important that team members can express impediments.
+
+Scrum theory states: 'Significant aspects of the process must be visible to those responsible for the outcome.' Scrum prescribes four formal events for inspection and adaptation:
+
+Sprint Planning
+Daily Scrum
+Sprint Review
+Sprint Retrospective
+
+As you may nave noticed, there is no such thing as a big planning. Only sprints are planned, by the team that does the work. This has quite an impact on a more traditional way of work were project managers are used to manage the project. Management will get a lot of info on each sprint end and by meeting with the product owner. The team will have all the info they need because they reach a concensus, on a per ticket basis, before a sprint is started in the sprnt refinement meetings. They will also be trained, and getting skilled at, defining a Definition of Done for each item. It's all about minimising communication overhead while maintaining a shared knowledge domain around a project with less effort.
 
 ## A good Scrum implementation minimises the bus factor
 Yes, even when you work with Scrum you have to write documentation. But you will write documentation when needed. Furthermore knowledge is shared within the team, there are no team hero's or key persons, no single point of failure
