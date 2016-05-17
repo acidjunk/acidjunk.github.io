@@ -44,9 +44,10 @@ Finally, sudo apt-get autoremove to clear out the old kernel image packages that
 Optionally: run `sudo apt-get update` and `sudo apt-get upgrade` to take care of any upgrades that may have backed up while waiting for you to discover the full /boot partition.
 
 # Eliminating the root cause
-You can set 
+You can turn on autoremoval of unneeded software after you unattended security updates.
 
 
 # The alternative
-Someone
+Someone wrote a smaal python program that does this for you:
 https://github.com/EvanK/ubuntu-purge-kernels
+Use at your own risk.
