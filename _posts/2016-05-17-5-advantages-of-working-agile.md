@@ -1,7 +1,7 @@
 ---
 title: 5 Advantages of working agile 
 subtitle: When and why to choose Scrum
-date: 2016-05-24
+date: 2016-05-17
 author: acidjunk
 layout: post
 permalink: /2016/05/5-advantages-of-working-agile
@@ -52,6 +52,6 @@ The term bus factor was coined in 1997 when somebody on the python mailing list 
 Yes, even when you work with Scrum you have to write documentation. But you will write documentation when needed. Furthermore knowledge is shared within the team, there are no team hero's or key persons, no single point of failure. When a person has info or expertise that makes him a single point of failure this will have a negative impact on sprints. This would be mentioned in a retrospective or as an impediment. Idealiter each team member can do all the tasks in a sprint. A good Scrum team will therefore consists out of T shaped team members. 
 
 ## Productivity is high with high stakeholder satisfaction
-When a team is successful doing scrum for a while it will be very productive. After a couple of sprints the efficiency can be easily doubled or tripled. As high prio changes are easily applied in 
+When a team is successful doing scrum for a while it will be very productive. After a couple of sprints the efficiency can be easily doubled or tripled. As high prio changes are easily applied in the proccess the customer or stakeholders will often see their requested change in the next release; trust me, this will ensure paid bills :)
 
 
