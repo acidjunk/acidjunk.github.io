@@ -44,9 +44,8 @@ Finally, sudo apt-get autoremove to clear out the old kernel image packages that
 Optionally: run `sudo apt-get update` and `sudo apt-get upgrade` to take care of any upgrades that may have backed up while waiting for you to discover the full /boot partition.
 
 # Eliminating the root cause
-You can uncomment an option in `/etc/apt/apt.conf.d/50unattended-upgrades`:
+You can turn on autoremoval of unneeded software after you unattended security updates by uncommentng an option in `/etc/apt/apt.conf.d/50unattended-upgrades`:
 Look for this line:
-
 ```
 // Do automatic removal of new unused dependencies after the upgrade
 // (equivalent to apt-get autoremove)
@@ -56,5 +55,6 @@ Unattended-Upgrade::Remove-Unused-Dependencies "true";
 Then apt-get autoremove is executed after each unattended upgrade.
 
 # The alternative
-Someone
+Someone wrote a small python program that does this for you:
 https://github.com/EvanK/ubuntu-purge-kernels
+Use at your own risk.
